@@ -8,6 +8,7 @@ import java.util.Scanner;
  * @Description: ConcurrentToolClass
  * @Version: 1.0
  */
+//判断回文
 
 public class Test1 {
     public static void main(String[] args){
